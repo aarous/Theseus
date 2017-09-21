@@ -1,0 +1,14 @@
+Hilfe:
+
+Über den Öffnen-Dialog im Datei-Menü können 
+Sie ein neues Bild in das Programm laden. 
+Drücken sie dann Berechnen unter Bearbeiten,
+damit der Computer das Bild in eine 2D-Karte
+für das Spiel überträgt.
+Unter dem Menmüpunkt spielen starten sie das
+Spiel.
+
+Für Hilfe und Informationen über das Programm
+oder die Autoren etc. nutzen sie das Hilfe-
+Menü.
+

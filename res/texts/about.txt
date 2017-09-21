@@ -1,0 +1,8 @@
+Über das Programm:
+
+Name: Theseus
+Autoren: Julian Sakowski, Ahmed Arous, 
+Marcel Müller
+Version: 0.1
+Beschreibung: Ermöglicht das Erstellen 
+eines 3D-Labyrinths aus einer Handzeichnung
